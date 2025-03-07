@@ -54,16 +54,16 @@ model = Sequential([
 - **데이터 증강을 활용한 모델 성능 개선 확인**
 
 ### 🔹 학습 정확도 그래프
-![Model Accuracy](images/Model Accuracy.png)
+![Model Accuracy](images/Model_Accuracy.png)
 
 ### 🔹 학습 손실 그래프
-![Model Loss](images/Model Loss.png)
+![Model Loss](images/Model_Loss.png)
 
 ### 🔹 예측 결과 예시
 - 샘플 이미지 (예: `7`)
-  ![Sample Image](images/Sample Image.png)
+  ![Sample Image](images/Sample_Image.png)
 - 예측 확률 분포
-  ![Prediction Probabilities](images/Prediction Probabilities.png)
+  ![Prediction Probabilities](images/Prediction_Probabilities.png)
 
 ## 📌 GitHub 분류
 🚀 **AI & Machine Learning**
